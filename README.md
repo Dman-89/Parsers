@@ -16,3 +16,5 @@ http://stanciya-napitkov.ru/
 Output is in .csv format.
 Each script collects data according to available info on respective sites.
 So number of columns, their names differ from parser to parser.
+
+In most cases I used bs4 library, also used selenium and regex.
